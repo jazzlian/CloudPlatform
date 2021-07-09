@@ -1,0 +1,1 @@
+bq --location=EU mk --dataset movies
